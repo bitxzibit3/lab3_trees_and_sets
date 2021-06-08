@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Timur/CLionProjects/Lab2_vector/Array/ArrSeq.cpp
+iostream
+-
+ArrSeq.h
+C:/Users/Timur/CLionProjects/Lab2_vector/Array/ArrSeq.h
+
+C:/Users/Timur/CLionProjects/Lab2_vector/Array/ArrSeq.h
+../Sequence.h
+C:/Users/Timur/CLionProjects/Lab2_vector/Sequence.h
+DynArray.h
+C:/Users/Timur/CLionProjects/Lab2_vector/Array/DynArray.h
+DynArray.cpp
+C:/Users/Timur/CLionProjects/Lab2_vector/Array/DynArray.cpp
+
+C:/Users/Timur/CLionProjects/Lab2_vector/Array/DynArray.cpp
+iostream
+-
+DynArray.h
+C:/Users/Timur/CLionProjects/Lab2_vector/Array/DynArray.h
+
+C:/Users/Timur/CLionProjects/Lab2_vector/Array/DynArray.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
+C:/Users/Timur/CLionProjects/Lab2_vector/Sequence.h
+stdlib.h
+-
+
+C:/Users/Timur/CLionProjects/Lab3/Array/ArrSeq.h
+../Sequence.h
+C:/Users/Timur/CLionProjects/Lab3/Sequence.h
+DynArray.h
+C:/Users/Timur/CLionProjects/Lab3/Array/DynArray.h
+DynArray.cpp
+C:/Users/Timur/CLionProjects/Lab3/Array/DynArray.cpp
+
+C:/Users/Timur/CLionProjects/Lab3/Array/DynArray.cpp
+iostream
+-
+DynArray.h
+C:/Users/Timur/CLionProjects/Lab3/Array/DynArray.h
+
+C:/Users/Timur/CLionProjects/Lab3/Array/DynArray.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
+C:/Users/Timur/CLionProjects/Lab3/Sequence.h
+stdlib.h
+-
+
+C:/Users/Timur/CLionProjects/Lab3/Tree and Nodes.cpp
+Tree and Nodes.h
+C:/Users/Timur/CLionProjects/Lab3/Tree and Nodes.h
+
+C:/Users/Timur/CLionProjects/Lab3/Tree and Nodes.h
+Array/ArrSeq.h
+C:/Users/Timur/CLionProjects/Lab3/Array/ArrSeq.h
+queue
+-
+
+C:/Users/Timur/CLionProjects/Lab3/main.cpp
+iostream
+-
+Tree and Nodes.cpp
+C:/Users/Timur/CLionProjects/Lab3/Tree and Nodes.cpp
+../Lab2_vector/Array/ArrSeq.cpp
+C:/Users/Timur/CLionProjects/Lab2_vector/Array/ArrSeq.cpp
+mySet.cpp
+C:/Users/Timur/CLionProjects/Lab3/mySet.cpp
+menu.cpp
+C:/Users/Timur/CLionProjects/Lab3/menu.cpp
+fstream
+-
+
+C:/Users/Timur/CLionProjects/Lab3/menu.cpp
+menu.h
+C:/Users/Timur/CLionProjects/Lab3/menu.h
+time.h
+-
+
+C:/Users/Timur/CLionProjects/Lab3/menu.h
+mySet.h
+C:/Users/Timur/CLionProjects/Lab3/mySet.h
+
+C:/Users/Timur/CLionProjects/Lab3/mySet.cpp
+mySet.h
+C:/Users/Timur/CLionProjects/Lab3/mySet.h
+
+C:/Users/Timur/CLionProjects/Lab3/mySet.h
+Tree and Nodes.h
+C:/Users/Timur/CLionProjects/Lab3/Tree and Nodes.h
+
